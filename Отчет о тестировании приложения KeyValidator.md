@@ -10,8 +10,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Результат FAIL в приложении KeyValidator при проверке Валидных ключей](https://github.com/plotnikovamariya1102/Java-keyvalidator/issues/2)
-* [Результат ОК в приложении KeyValidator при проверке Невалидных ключей](https://github.com/plotnikovamariya1102/Java-keyvalidator/issues/2)
+* [Результат FAIL в приложении KeyValidator при проверке Валидных ключей](https://github.com/plotnikovamariya1102/KeyValidator/issues/1)
+* [Результат ОК в приложении KeyValidator при проверке Невалидных ключей](https://github.com/plotnikovamariya1102/KeyValidator/issues/2)
 
 ## **Описание процесса тестирования**
 В процессе тестирования использовались следующие артефакты:
