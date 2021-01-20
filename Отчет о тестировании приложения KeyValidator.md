@@ -18,9 +18,6 @@
 
 * [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
-* Баг-репорт: [Результат FAIL в приложении KeyValidator при проверке Валидных ключей](https://github.com/plotnikovamariya1102/Java-keyvalidator/issues/2)
-* Баг-репорт: [Результат ОК в приложении KeyValidator при проверке Невалидных ключей](https://github.com/plotnikovamariya1102/Java-keyvalidator/issues/2)
-
 В качестве тестовых данных использовались данные из [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 Валидные ключи, ожидаемый результат ОК:
